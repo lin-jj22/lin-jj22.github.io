@@ -1,21 +1,15 @@
-# macOS
+# 系统文件
 .DS_Store
-
-# Windows
 Thumbs.db
 desktop.ini
 
-# Editor directories and files
+# 编辑器文件
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Logs
-*.log
-
-# Temporary files
+# 临时文件
 *.tmp
-*.temp
-
+*.log
