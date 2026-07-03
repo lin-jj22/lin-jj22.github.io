@@ -17,7 +17,7 @@ My research interests focus on **Augmented Reality (AR) for mechanical assembly*
 
 ## News
 
-- **2026** - Our **RA-L** paper was accepted by **IEEE Robotics and Automation Letters**
+- **Jun 3, 2026** - Our **RA-L** paper was accepted by **IEEE Robotics and Automation Letters**
 - **Apr-Aug 2026** - Visiting Ph.D. student at **KTH Royal Institute of Technology**, advised by **Prof. Lihui Wang** and **Prof. Xi Wang**
 - **Oct 12, 2025** – ***SAMR*** presented as an **oral presentation** at **ISMAR 2025**, Daejeon, Korea
 - **Aug 7, 2025** – ***SAMR*** accepted by **ISMAR 2025**
